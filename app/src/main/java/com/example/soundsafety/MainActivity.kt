@@ -11,6 +11,8 @@ class MainActivity : AppCompatActivity() {
     }
 
     /*
+
+    Below is for setting color to make it nicer too :)
     TextView mTextView = new
     mTextView.setTextColor(Color.parseColor("#bdbdbd"));
 
